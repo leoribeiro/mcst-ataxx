@@ -3,7 +3,7 @@
 #from ucb_monte_carlo import MonteCarlo
 from minimax import minimax
 from board import *
-from mcst import *
+from mcts import *
 from ataxx import *
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from time import sleep
